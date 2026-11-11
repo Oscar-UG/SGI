@@ -1,4 +1,4 @@
-#FUNCIONALIDES DEL PROYECTO
+FUNCIONALIDES DEL PROYECTO
 
 OBJETIVO: Con estas funcionalidades se busca dar el mejor rendimiento y seguridad a la hora de reabastecer un inventario,
 sin generar perdidas por solicitar más de lo debido o a lugares donde no era necesario reabastecer. 
