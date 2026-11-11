@@ -1,4 +1,4 @@
-## 4. Requisitos del Sistema (Requisitos Funcionales)
+## 4. Requisitos del Sistema
 
 El sistema deberá cumplir con los siguientes requisitos funcionales:
 
