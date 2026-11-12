@@ -8,3 +8,9 @@ Descripción del proyecto: Se trata de un sistema de gestión de inventario comp
 datos, una estructura centralizada para almacenar información de los artículos, un algoritmo lógico de cálculo para saber 
 qué cantidad exacta pedir a los proveedores y la emisión de reportes detallados para que el personal de bodega y los
 administradores optimicen las compras y eviten desabastecimientos.
+
+## Equipo de Trabajo y Roles
+* **Líder del proyecto:** Geyden Steven
+* **Documentador:** Juan Esteban
+* **Gestor de cambios:** José Rincón
+* **Revisor de calidad (SQA):** Oscar Urrutia
