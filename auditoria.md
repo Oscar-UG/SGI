@@ -39,6 +39,7 @@
 
 * Cambios realizados
 	- Implementación de requisitos (funcionales) del proyecto SGI
+    - Implementación plan de pruebas
 
 * Responsable
 	- Oscar Javier Urrutia Gutierrez
